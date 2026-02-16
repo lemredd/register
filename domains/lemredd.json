@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "lemredd"
+  },
+  "records": {
+    "A": "66.181.46.69",
+    "CAA": [
+      {
+        "flags": 0,
+        "tag": "issue",
+        "value": "letsencrypt.org"
+      }
+    ]
+  }
+}
